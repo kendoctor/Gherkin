@@ -723,7 +723,7 @@
   array (
     'name' => 'Chinese simplified',
     'native' => '简体中文',
-    'feature' => '功能',
+    'feature' => '特性|功能',
     'background' => '背景',
     'scenario' => '场景|剧本',
     'scenario_outline' => '场景大纲|剧本大纲',
